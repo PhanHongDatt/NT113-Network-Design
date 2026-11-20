@@ -11,14 +11,13 @@
             "id": "5e0988d0549b886e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "Fix/FIX Case SWL3 main không chuyển metric đi đến Router Backup.md",
-                "mode": "source",
-                "source": false
+                "file": "Chưa đặt tên.base",
+                "viewName": "Table"
               },
-              "icon": "lucide-file",
-              "title": "FIX Case SWL3 main không chuyển metric đi đến Router Backup"
+              "icon": "lucide-table",
+              "title": "Chưa đặt tên"
             }
           },
           {
@@ -35,8 +34,7 @@
               "title": "Hybrid Cloud"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -195,30 +193,44 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Tạo cơ sở mới": false,
       "obsidian-git:Open Git source control": false,
       "switcher:Mở bộ chuyển đổi nhanh": false,
       "graph:Mở xem biểu đồ": false,
       "canvas:Tạo bảng mới": false,
       "daily-notes:Mở ghi chú hôm nay": false,
       "templates:Chèn mẫu": false,
-      "command-palette:Mở khay lệnh": false,
-      "bases:Create new base": false
+      "command-palette:Mở khay lệnh": false
     }
   },
-  "active": "dd7fe4474957efb6",
+  "active": "5e0988d0549b886e",
   "lastOpenFiles": [
-    "Project/Fix.md",
+    "Fix/L3 HCM MAIN.md",
+    "Fix/FIX Case SWL3 main không chuyển metric đi đến Router Backup.md",
+    "Ôn tập/Bộ câu hỏi ôn trắc nghiệm.md",
+    "Ôn tập/Chapter 3.md",
+    "Ôn tập/Chapter 4.md",
+    "Ôn tập/Chapter 5.md",
+    "Ôn tập/Chapter 6.md",
+    "Ôn tập/Chapter 7.md",
+    "Chưa đặt tên.base",
+    "Ôn tập/Chapter 2.md",
+    "Ôn tập/Chapter 1.md",
     "Project/Cisco ISE.md",
+    "Project/Dịch vụ Internet.md",
+    "Project/Firewall.md",
+    "Ôn tập",
+    "Project/Hybrid Cloud.md",
+    "Project/Fix.md",
     "Custom/Ima/Pasted image 20251123120357.png",
     "Custom/Ima/Pasted image 20251123120644.png",
     "Custom/Ima",
     "Custom",
-    "Fix/L3 HCM MAIN.md",
-    "Fix/FIX Case SWL3 main không chuyển metric đi đến Router Backup.md",
     "Fix",
     "Project/Zabbix và Wazuh.md",
     "Project/Yêu cầu.md",
@@ -226,9 +238,6 @@
     "Project/Thiết bị hệ thống.md",
     "Project/PCM.md",
     "Project/Loop, Spanning Tree, VFR.md",
-    "Project/Hybrid Cloud.md",
-    "Project/Firewall.md",
-    "Project/Dịch vụ Internet.md",
     "Custom/Ima/Pasted image 20251123120531.png",
     "Custom/Ima/Pasted image 20251123120432.png",
     "Project"
